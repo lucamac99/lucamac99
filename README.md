@@ -60,13 +60,13 @@ I'm a passionate Full Stack Developer and Data Scientist with a love for creatin
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
--- ## 🌟 Featured Projects
+<!--  ## 🌟 Featured Projects
 
--- ### Project 1: [Project Name]
--- Brief description of the project.
+### Project 1: [Project Name]
+Brief description of the project.
 
--- ### Project 2: [Project Name]
--- Brief description of the project.
+### Project 2: [Project Name]
+Brief description of the project. -->
 
 ## 🏆 GitHub Trophies
 
