@@ -26,7 +26,7 @@ Developed in collaboration with EAI (European Alliance for Innovation), this pla
 Web platform for engineering firms to manage multi-phase client projects.
 ➡️ [Read more](projects/project-workflow-manager.md)
 
-
+<--
 ### 🌐 **Client Dashboard** – Web App (Freelance Work)  
 Developed a custom analytics dashboard for a local logistics company, using **React, Chart.js, Node.js**, and **PostgreSQL**. Features real-time data updates and responsive UI.
 
@@ -34,6 +34,7 @@ Developed a custom analytics dashboard for a local logistics company, using **Re
 A web app for forecasting product demand using **scikit-learn**, **Flask**, and **D3.js** for visualization. Designed and deployed as a freelance proof-of-concept.
 
 *More projects coming soon...*
+-->
 
 ---
 
@@ -84,12 +85,12 @@ A web app for forecasting product demand using **scikit-learn**, **Flask**, and 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luca.maccacaro14@gmail.com)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamac99&show_icons=true&theme=radical)
 
-<!--
+
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=lucamac99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
