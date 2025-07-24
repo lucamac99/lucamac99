@@ -16,3 +16,7 @@ This system was built to centralize and automate the user and payment management
 
 ##### 🖥️ Tech Stack:
 RedwoodJS, PostgreSQL, Prisma, RedwoodJS Background Jobs, Docker, REST APIs
+
+
+##### 🎥 Demo Video:
+[Watch the video](https://drive.google.com/file/d/1UWqkK92kGknViQCbQWgyK0nMa93jPsfB/view?usp=share_link)
