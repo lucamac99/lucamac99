@@ -39,11 +39,24 @@ However, here are selected screenshots showcasing key parts of the application:
 - Project collaboration dashboard
 - Conference discovery and proposal flow
 
-<p float="left">
-  <img src="./media/dashboard_full.png" width="30%" />
-  <img src="./media/current_profile.png" width="30%" />
-  <img src="./media/conference_proposal_external.png" width="30%" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="./media/dashboard_full.png" width="250"/><br/>
+      <sub><b>📊 Dashboard Overview</b></sub>
+    </td>
+    <td align="center">
+      <img src="./media/current_profile.png" width="250"/><br/>
+      <sub><b>👤 Researcher Profile</b></sub>
+    </td>
+    <td align="center">
+      <img src="./media/conference_proposal_external.png" width="250"/><br/>
+      <sub><b>📄 Conference Proposal</b></sub>
+    </td>
+  </tr>
+</table>
+
+
 
 *Screens and UI elements have been reviewed to ensure no confidential data is shared.*
 
