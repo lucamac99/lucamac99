@@ -12,4 +12,4 @@ This project is a tailored solution developed for a large enterprise to automate
 - ☁️ Cloud Deployment – Fully deployed and managed on a cloud server via Hetzner, with process orchestration and logging.
 
 ##### 🎥 Demo Video:
-[![Watch the video](./media/sales-forecasting-latform.mp4)
+[Watch the video](https://drive.google.com/file/d/15m15zRQg6ouQLaw8ko6gN7v7lQXui7AM/view?usp=share_link)
