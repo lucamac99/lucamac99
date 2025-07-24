@@ -38,11 +38,12 @@ However, here are selected screenshots showcasing key parts of the application:
 - User profile and networking interface
 - Project collaboration dashboard
 - Conference discovery and proposal flow
-- Real-time messaging between researchers
 
-![Screenshot 1](./media/conference_proposal_external.png)
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot3.png)
+<p float="left">
+  <img src="./media/dashboard_full.png" width="30%" />
+  <img src="./media/current_profile.png" width="30%" />
+  <img src="./media/conference_proposal_external.png" width="30%" />
+</p>
 
 *Screens and UI elements have been reviewed to ensure no confidential data is shared.*
 
