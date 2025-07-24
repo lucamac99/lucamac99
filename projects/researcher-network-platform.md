@@ -1,4 +1,6 @@
-🌐 Researcher Network Platform – Web App for European Alliance for Innovation
+### 🌐 Researcher Network Platform – Web App for European Alliance for Innovation
+
+
 Developed in collaboration with [EAI (European Alliance for Innovation)](https://eai.eu), this platform was designed as a digital hub for researchers, conference participants, and innovation experts across Europe and beyond.
 
 🔍 The goal: to foster collaboration, communication, and visibility in the research ecosystem by offering tools tailored to academic and scientific workflows.
