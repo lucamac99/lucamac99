@@ -38,23 +38,31 @@ However, here are selected screenshots showcasing key parts of the application:
 - User profile and networking interface
 - Project collaboration dashboard
 - Conference discovery and proposal flow
+- Abstract edit and preview
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td align="center">
-      <img src="./media/dashboard_full.png" width="250"/><br/>
-      <sub><b>📊 Dashboard Overview</b></sub>
+    <td align="center" valign="bottom" style="width: 50%;">
+      <img src="./media/dashboard_full.png" width="90%" style="border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.12);" />
+      <div style="margin-top: 12px; font-weight: 600; font-size: 1.1em;">📊 Dashboard Overview</div>
     </td>
-    <td align="center">
-      <img src="./media/current_profile.png" width="250"/><br/>
-      <sub><b>👤 Researcher Profile</b></sub>
+    <td align="center" valign="bottom" style="width: 50%;">
+      <img src="./media/current_profile.png" width="90%" style="border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.12);" />
+      <div style="margin-top: 12px; font-weight: 600; font-size: 1.1em;">👤 Researcher Profile</div>
     </td>
-    <td align="center">
-      <img src="./media/conference_proposal_external.png" width="250"/><br/>
-      <sub><b>📄 Conference Proposal</b></sub>
+  </tr>
+  <tr>
+    <td align="center" valign="bottom" style="width: 50%;">
+      <img src="./media/conference_proposal_external.png" width="90%" style="border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.12);" />
+      <div style="margin-top: 12px; font-weight: 600; font-size: 1.1em;">📄 Conference Proposal</div>
+    </td>
+    <td align="center" valign="bottom" style="width: 50%;">
+      <img src="./media/abstract_external.png" width="90%" style="border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.12);" />
+      <div style="margin-top: 12px; font-weight: 600; font-size: 1.1em;">🔗 Abstract Preview</div>
     </td>
   </tr>
 </table>
+
 
 
 
