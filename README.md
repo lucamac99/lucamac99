@@ -14,6 +14,14 @@ I'm a **Frontend & Mobile Developer** with a Master's in Data Science and a stro
 A minimalist application to enhance memory skills through engaging exercises designed to boost focus and mental agility. Built with **SwiftUI**, available on the **App Store**.  
 ➡️ [App Store](https://apps.apple.com/it/app/memoryhelper-brain-trainer/id6744118350?l=en-GB)
 
+### 🔐 Access & Payment Management System
+This system was built to centralize and automate the user and payment management for an organization handling physical access control and external booking software. It tracks user movements, synchronizes their status, and generates invoices and receipts—fully integrated and automated.
+➡️ [Read more](projects/payment-management-system.md)
+
+### 🔮 Sales Forecasting Platform
+Custom Time Series Modeling & Deployment
+➡️ [Read more](projects/sales-forecasting-platform.md)
+
 ### 🏭 Packaging Process Manager – Web Application for Food Industry
 Built for a large food manufacturing company, this full-stack application streamlines the creation and approval process of product packaging across multiple teams and external partners.
 ➡️ [Read more](packaging-process-manager.md)
@@ -26,17 +34,7 @@ Developed in collaboration with EAI (European Alliance for Innovation), this pla
 Web platform for engineering firms to manage multi-phase client projects.
 ➡️ [Read more](projects/project-workflow-manager.md)
 
-<--
-### 🌐 **Client Dashboard** – Web App (Freelance Work)  
-Developed a custom analytics dashboard for a local logistics company, using **React, Chart.js, Node.js**, and **PostgreSQL**. Features real-time data updates and responsive UI.
-
-### 📊 **ML Forecasting Tool** – Data Science + Web  
-A web app for forecasting product demand using **scikit-learn**, **Flask**, and **D3.js** for visualization. Designed and deployed as a freelance proof-of-concept.
-
-*More projects coming soon...*
--->
-
----
+<!--
 
 ## 🧰 Technologies & Tools
 
@@ -68,6 +66,8 @@ A web app for forecasting product demand using **scikit-learn**, **Flask**, and 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
+-->
+
 
 ## 🔭 Currently Working On
 
@@ -80,9 +80,9 @@ A web app for forecasting product demand using **scikit-learn**, **Flask**, and 
 
 ## 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-maccacaro-00712b201/)  
-[![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/maccacaroluca)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luca.maccacaro14@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-maccacaro-00712b201/)  
+- [![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/maccacaroluca)  
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luca.maccacaro14@gmail.com)
 
 ---
 <!--
