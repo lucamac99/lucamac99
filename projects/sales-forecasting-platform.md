@@ -1,4 +1,6 @@
-🔮 Sales Forecasting Platform
+### 🔮 Sales Forecasting Platform
+
+
 Custom Time Series Modeling & Deployment
 This project is a tailored solution developed for a large enterprise to automate and optimize sales forecasting using custom time series models. The system combines the power of FastAPI with a modern, lightweight interface and backend services, delivering a scalable and accessible forecasting platform.
 
