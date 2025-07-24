@@ -18,6 +18,7 @@ Web platform for engineering firms to manage multi-phase client projects.Develop
 - Emails sent using SendGrid integration
 - Containerized and deployed via Docker on a private Linux VM
 - Responsive UI inspired by modern dashboard design principles
+- Railway for dev database
 
 
 🎥 [Video demo coming soon]
