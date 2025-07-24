@@ -30,5 +30,20 @@ Developed in collaboration with [EAI (European Alliance for Innovation)](https:/
 - Focused on performance and accessibility to support low-bandwidth users
 - Worked directly with EAI stakeholders to define product scope and deliver iterations
 
+📸 **Demo & Screenshots**
 
-🎥 [Video demo coming soon]
+Due to the complexity of the system and integration with private EAI services, a live demo is not publicly available.
+
+However, here are selected screenshots showcasing key parts of the application:
+- User profile and networking interface
+- Project collaboration dashboard
+- Conference discovery and proposal flow
+- Real-time messaging between researchers
+
+![Screenshot 1](./media/conference_proposal_external.png)
+![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 3](path/to/screenshot3.png)
+
+*Screens and UI elements have been reviewed to ensure no confidential data is shared.*
+
+
