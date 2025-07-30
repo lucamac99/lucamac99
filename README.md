@@ -24,15 +24,15 @@ Custom Time Series Modeling & Deployment
 
 ### 🏭 Packaging Process Manager – Web Application for Food Industry
 Built for a large food manufacturing company, this full-stack application streamlines the creation and approval process of product packaging across multiple teams and external partners.
-➡️ [Read more](packaging-process-manager.md)
+➡️ [Read more](projects/packaging-process-manager.md)
 
 ### 🌐 Researcher Network Platform – Web App for European Alliance for Innovation
 Developed in collaboration with EAI (European Alliance for Innovation), this platform was designed as a digital hub for researchers, conference participants, and innovation experts across Europe and beyond.
-➡️ [Read more](researcher-network-platform.md)
+➡️ [Read more](projects/researcher-network-platform.md)
 
 ### 🏗️ Project Workflow Manager – Web App for Engineering Studio
 Web platform for engineering firms to manage multi-phase client projects.
-➡️ [Read more](projects/project-workflow-manager.md)
+➡️ [Read more](projects/projects/project-workflow-manager.md)
 
 <!--
 
