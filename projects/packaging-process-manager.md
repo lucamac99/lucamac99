@@ -12,6 +12,7 @@ Built for a large food manufacturing company, this full-stack application stream
 ##### 🔧 Tech Stack & Architecture:
 
 - Developed with RedwoodJS (React + GraphQL + Prisma)
+- Docusaurus for documentation
 - Authentication via Auth0
 - File handling with Minio integration
 - Containerized deployment using Docker on a self-managed Linux VM
