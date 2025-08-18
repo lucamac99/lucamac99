@@ -73,8 +73,7 @@ Web platform for engineering firms to manage multi-phase client projects.
 
 - Building a personal portfolio site with GitHub Pages
 - Publishing a second iOS app built with SwiftUI
-- Working on a multiplatform management system for tennis clubs
-- Learning more about performance optimization in React
+- Working on a multiplatform management system for tennis clubs in React
 
 ---
 
